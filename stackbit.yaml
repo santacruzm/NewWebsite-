@@ -1,11 +1,11 @@
 stackbitVersion: ~0.2.39
 ssgName: custom
-publishDir: content/public
-buildCommand: cd content && hugo --gc --baseURL "/" --themesDir ../.. && cd ..
+publishDir: NewWebsite-/public
+buildCommand: cd NewWebsite- && hugo
 uploadDir: uploads
-staticDir: content/static
-pagesDir: content/content
-dataDir: content
+staticDir: NewWebsite-/static
+pagesDir: NewWebsite-/content
+dataDir: NewWebsite-
 models:
   config:
     type: data
