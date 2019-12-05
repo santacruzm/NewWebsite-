@@ -1,7 +1,6 @@
 # Web Project - Closing Remarks
 
 ##Marisol Santa Cruz 
-###Web Project: Closing Remarks 
 
 ####Building Process 
 During the site building process, one of the major challenges for me was summarizing myself up in a few words. This challenge was similar to the one during the crafting of my resume. I am not the person to do only one thing. I have numerous experiences in different fields. I learned my lesson in the resume formulation process, instead of having a 3 page resume which is overwhelming and doing too much, I decided to omit information that was out dates. Same logic was implemented when formulating this site, instead of having 20 heavy worded bullet points I decided to write a concise paragraph demonstrating what I do. The essayist approach really speak to my focus in media studies and major in Communication Arts. In the sense that it provides a glimpse into my passion for storytelling.  
