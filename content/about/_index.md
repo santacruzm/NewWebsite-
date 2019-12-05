@@ -1,5 +1,5 @@
 ---
-title: "Marisol Santa Cruz"
+title: "About"
 featured_image: "/images/india.jpg"
 description: "Be a Voice, Not an Echo."
 ---
