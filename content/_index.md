@@ -1,6 +1,6 @@
 ---
 title: "Marisol Santa Cruz"
-featured_image: '/images/india.jpg'
+featured_image: "/images/india.jpg"
 description: "Be a Voice, Not an Echo."
 ---
 Social media marketer motivated to constantly expand and
