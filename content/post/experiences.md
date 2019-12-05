@@ -1,6 +1,6 @@
 ---
 title: "Experiences"
-featured_image: ''/image/vsco_122716.jpg''
+featured_image: "/image/vsco_122716.jpg"
 ---
 _Education_
 Bachelor of Arts, Communication Arts
