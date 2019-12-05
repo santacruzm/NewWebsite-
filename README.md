@@ -1,4 +1,4 @@
-# WebProject
+# Web Project - Closing Remarks
 
 ##Marisol Santa Cruz 
 ###Web Project: Closing Remarks 
