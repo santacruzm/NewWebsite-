@@ -1,8 +1,8 @@
 ---
-description: "Volunteer Experience"
+title: "Volunteer Experience"
 featured_image: "/image/vsco_033117.jpg"
 tags: ["Giving Back to the Community"] ["Pay it back, Pay it forward"]
-title: "Volunteer Experience"
+description: "Volunteer Experience"
 ---
 
 _Service Spring Break Trip: Reading Partnership Volunteer & Habitat of Humanity_
