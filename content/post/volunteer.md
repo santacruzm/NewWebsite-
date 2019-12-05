@@ -1,7 +1,7 @@
 ---
 description: "Volunteer Experience"
 featured_image: "/image/vsco_033117.jpg"
-tags: [Giving Back to the Community] [Pay it back, Pay it forward]
+tags: ["Giving Back to the Community"] ["Pay it back, Pay it forward"]
 title: "Volunteer Experience"
 ---
 
@@ -21,4 +21,4 @@ AUGUST 2018 - PRESENT
 _Service Saturday Volunteer_
 SEPTEMBER 2016 - PRESENT
 • Volunteer with the Creating Landscapes Learning Center and coordinate the work schedule in the community garden that provides vegetables for Meadville residents.
-• Have learned useful team-building skills, time management, sharpened my interpersonal and communication abilities, and discovered how to break up large projects into manageable units. 
+• Have learned useful team-building skills, time management, sharpened my interpersonal and communication abilities, and discovered how to break up large projects into manageable units.
