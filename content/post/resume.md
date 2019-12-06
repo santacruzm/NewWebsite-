@@ -5,4 +5,4 @@ menu:
   main: {}
 ---
 #### Resume
-[my link](file:///C:/resume.pdf)
+[my link](file:///NewWebsite-/content/resume.pdf)
