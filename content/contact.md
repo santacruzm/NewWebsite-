@@ -11,4 +11,4 @@ menu:
 
 Feel free to contact me if you have any question, open opportunities, or simply would like to connect.  
 
-{{< form-contact action="https://formspree.io/meqorgoo""  >}} 
+{{< form-contact action="https://formspree.io/meqorgoo" >}} 
