@@ -14,7 +14,7 @@ Collaborated with a team of fellow volunteers in the development of neighborhood
 
 ---
 _Grounds for Change Volunteer_
-AUGUST 2018 - PRESENT
+#### AUGUST 2018 - PRESENT
 
 Took and filled customer's beverage orders in a timely and courteous manner. 
 
@@ -24,7 +24,7 @@ Operated cash register and credit card machine.
 
 ---
 _Service Saturday Volunteer_
-SEPTEMBER 2016 - PRESENT
+#### SEPTEMBER 2016 - PRESENT
 
 Volunteer with the Creating Landscapes Learning Center and coordinate the work schedule in the community garden that provides vegetables for Meadville residents.
 
