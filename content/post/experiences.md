@@ -8,6 +8,7 @@ menu:
 ---
 #### Social Media Assistant at Allegheny College
 _August 2019_
+
 _Meadville, PA_
 
 Improve the Allegheny College brand on various social media platforms by using a combination of Zoho and built-in analytics on each platform to monitor our success.
