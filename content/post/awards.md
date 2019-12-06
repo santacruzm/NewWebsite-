@@ -41,7 +41,7 @@ Received funding through the Provost’s office to work on a faculty-student res
 ---
 _Hispanic Scholarship Fund Scholar_
 #### JULY 2018
-#### Issuer: hispanic Scholarship Fund
+#### Issuer: Hispanic Scholarship Fund
 
 One of approximately 10,000 brightest Hispanic students in the country who is receiving HSF Scholar Support Services which include mentorship, career services, leadership development, knowledge building, and wellness services.
 
