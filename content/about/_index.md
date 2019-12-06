@@ -1,6 +1,6 @@
 ---
 title: "About"
-featured_image: "/images/alleghenycollege.jpg"
+featured_image: "/images/about.jpg"
 description: "I am the current Social Media Assistant at Allegheny College as well as the Marketing Intern at the Admissions Office, Allegheny College."
 ---
 
