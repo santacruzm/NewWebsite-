@@ -207,7 +207,7 @@ section:
             value: main
   post:
     type: page
-    label: Posts
+    label: Post
     folder: post
     exclude: _index.md
     layout: _default/single.html
