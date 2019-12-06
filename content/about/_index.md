@@ -14,7 +14,7 @@ As an open-minded person, I participated in the service trip because I wanted to
 
 Clearly, I remember a specific student who I had been working with day after day ask me to make the effort to go watch her cheerleading skills during practice which consequently was at the same time of my departure. With persistence, I showcased the vitalness of small gestures and convinced the group to push departure time back. Clapping and cheering at her cheerleading practice, the student who was a stranger a couple of weeks ago ran to me with a hug of appreciation. It was at that moment that I truly knew it is the little things that can change the world for a person. The simple fact of knowing that someone cares and believes in you is a powerful lesson I gained. The participation of the Service Trip allowed me to promote the widest influence for good as I go back to Allegheny and my hometown community sharing on my personal stories on my service experience. With the high hopes of encouraging and informing students about the vitalness of part taking in service trips toward the cultivation of a better self. Instead of vacationing during spring break I have dedicated myself to the civic engagement work on my path to spread the wildest influence of good.
 
-#### Volunteer Experience 
+#### VOLUNTEER EXPERIENCE
 
 _Service Spring Break Trip: Reading Partnership Volunteer & Habitat of Humanity_
 #### MARCH 2017 - PRESENT
