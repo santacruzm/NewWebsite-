@@ -1,10 +1,11 @@
 ---
+date: 2017-04-09T10:58:08-04:00
 title: "Awards"
 featured_image: "images/vsco5da0ce54b86c1.jpg"
 description: "My professional Accomplishments"
 type: page
-tags: ["All"]
-
+menu:
+  main: {}
 ---
 _Alden Scholar_
 #### OCTOBER 2019
