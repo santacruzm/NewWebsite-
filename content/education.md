@@ -2,7 +2,6 @@
 graduation date: May 2020
 description: "Academic History"
 featured_image: "/images/vsco_122716.jpg"
-tags: ["Academics"]
 title: "Education"
 ---
 _Education_

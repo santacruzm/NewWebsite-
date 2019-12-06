@@ -1,7 +1,6 @@
 ---
 title: "Volunteer Experience"
 featured_image: "/image/vsco_033117.jpg"
-tags: ["Giving Back to the Community", "Pay it back, Pay it forward"]
 description: "Volunteer Experience"
 ---
 
