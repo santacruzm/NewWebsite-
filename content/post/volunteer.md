@@ -6,7 +6,7 @@ description: "Volunteer Experience"
 ---
 
 _Service Spring Break Trip: Reading Partnership Volunteer & Habitat of Humanity_
-MARCH 2017 - PRESENT
+#### MARCH 2017 - PRESENT
 
 Volunteered to work with the Reading Partners Organization, located in Washington D.C. to assist students ranging from kindergarten to fourth grade at Malcolm X Elementary School to improve their reading skills. Learned how to work with younger populations at their level, and adapt communication to suit their needs and learning pace.
 
