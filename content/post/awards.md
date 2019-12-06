@@ -1,8 +1,7 @@
 ---
-title: Awards
+title: "Awards"
 featured_image: "images/vsco5da0ce54b86c1.jpg"
-omit_header_text: true
-description: "I'd love to hear from you"
+description: "My professional Accomplishments"
 type: page
 menu:
   main: {}
