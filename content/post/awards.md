@@ -3,6 +3,7 @@ title: "Awards"
 featured_image: "images/vsco5da0ce54b86c1.jpg"
 description: "My professional Accomplishments"
 type: page
+menu:
   main: {}
 
 ---
