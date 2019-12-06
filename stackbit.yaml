@@ -205,29 +205,4 @@ models:
         options:
           - label: main
             value: main
-  post:
-    type: page
-    label: Posts
-    folder: post
-    exclude: _index.md
-    layout: _default/single.html
-    fields:
-      - type: string
-        name: title
-        label: Title
-      - type: date
-        name: date
-        label: Date
-      - type: image
-        name: featured_image
-        label: Featured Image
-        description: Image displayed at in the pages intro section
-      - type: string
-        name: description
-        label: Description
-      - type: enum
-        name: tags
-        label: tags
-      - type: boolean
-        name: draft
-        label: Draft
+  
