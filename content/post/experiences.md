@@ -22,6 +22,7 @@ Analyzing engagement rate as well as content reach, track shares/comments, and e
 ---
 #### India Experiential Learning - Restaging History as Media Event
 _May 2019 - JUN 2019_
+
 _Northern India_
 
 Three-week long experiential learning seminar (May 13-June 3, 2019)
@@ -35,6 +36,7 @@ Created a personal travel journal and a video of the experience.
 ---
 #### Research Fellow at Allegheny College
 _July 2018_
+
 _Meadville, PA_
 
 Conducted archival research at the Crawford County Historical Society and the Special Collections at Allegheny College, on the Baldwin Reynolds House, with a focus on the feminine side of history-making.
@@ -46,6 +48,7 @@ Prepared a research-based presentation on the findings that will be made before 
 ---
 #### Ethnographic Researcher at Allegheny College
 _JAN 2018 - May 2018_
+
 _Meadville, PA_
 
 Conducted ethnographic research titled “Meadiaville Listening Project” on the community efforts in Meadville Pennsylvania.
@@ -62,6 +65,7 @@ Published on the season two Meadville: Writing Its Own Story website https://www
 ---
 #### Resident Advisor at Allegheny College
 _AUG 2017 - May 2019_
+
 _Meadville, PA_
 
 Supervise a floor of 16 residents and organize a diverse array of programming events and off-campus excursions
