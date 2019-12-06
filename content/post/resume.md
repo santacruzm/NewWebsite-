@@ -5,4 +5,4 @@ menu:
   main: {}
 ---
 #### Resume
-[my link](file:///NewWebsite-/content/resume.pdf)
+<a href="resume.pdf" download> Download Resume </a>
