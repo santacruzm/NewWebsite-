@@ -6,7 +6,7 @@ menu:
   main: {}
 
 ---
-#### Social Media Assistant at Allegheny College_
+#### Social Media Assistant at Allegheny College
 _August 2019_
 _Meadville, PA_
 
@@ -19,9 +19,9 @@ Develop, maintain and, grow interaction on various social media platform and pos
 Analyzing engagement rate as well as content reach, track shares/comments, and explore trends in the type of content that performs most successfully on each platform to better tailor our posts.
 
 ---
-_India Experiential Learning - Restaging History as Media Event_
-#### May 2019 - JUN 2019
-#### Northern India
+#### India Experiential Learning - Restaging History as Media Event
+_May 2019 - JUN 2019_
+_Northern India_
 
 Three-week long experiential learning seminar (May 13-June 3, 2019)
 
@@ -32,9 +32,9 @@ Developed a formal presentation on the experience and the Gilman Scholarship at 
 Created a personal travel journal and a video of the experience.
 
 ---
-_Research Fellow at Allegheny College_
-#### July 2018
-#### Meadville, PA
+#### Research Fellow at Allegheny College
+_July 2018_
+_Meadville, PA_
 
 Conducted archival research at the Crawford County Historical Society and the Special Collections at Allegheny College, on the Baldwin Reynolds House, with a focus on the feminine side of history-making.
 
@@ -43,9 +43,9 @@ Transcribed and organized the letters between the women in the Baldwin Reynolds 
 Prepared a research-based presentation on the findings that will be made before Allegheny College as part of the Undergraduate Research, Scholarship, and Creative Activities (URSCA) symposium in August 2018.
 
 ---
-_Ethnographic Researcher at Allegheny College_
-#### JAN 2018 - May 2018
-#### Meadville, PA
+#### Ethnographic Researcher at Allegheny College
+_JAN 2018 - May 2018_
+_Meadville, PA_
 
 Conducted ethnographic research titled “Meadiaville Listening Project” on the community efforts in Meadville Pennsylvania.
 
@@ -59,9 +59,9 @@ Created a scrapbook that is on display at Tarot Bean Roasting Co.
 Published on the season two Meadville: Writing Its Own Story website https://www.meadiaville.com
 
 ---
-_Resident Advisor at Allegheny College_
-#### AUG 2017 - May 2019
-#### Meadville, PA
+#### Resident Advisor at Allegheny College
+_AUG 2017 - May 2019_
+_Meadville, PA_
 
 Supervise a floor of 16 residents and organize a diverse array of programming events and off-campus excursions
 
