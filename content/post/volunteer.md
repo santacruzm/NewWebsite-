@@ -2,9 +2,6 @@
 title: "Volunteer Experience"
 featured_image: "/image/vsco_033117.jpg"
 description: "Volunteer Experience"
-type: page
-menu:
-  main: {}
 ---
 
 _Service Spring Break Trip: Reading Partnership Volunteer & Habitat of Humanity_
