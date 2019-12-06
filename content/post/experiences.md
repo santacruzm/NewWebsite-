@@ -1,6 +1,6 @@
 ---
 title: "Experiences"
-featured_image: "/image/vsco_122716.jpg"
+featured_image: "/images/stage.jpg"
 type: page
 menu:
   main: {}
