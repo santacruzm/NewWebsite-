@@ -6,7 +6,7 @@ description: "I am the current Social Media Assistant at Allegheny College as we
 
 {{< figure src="/images/vsco_033117.jpg" title="Illustration from Alternative Spring Break Reading Partners (2018)" >}}
 
-_Professional Summary_
+#### Professional Summary
 
 _Alternative Spring Break Trip_ is an extracurricular service activity I have volunteer my time to consecutively. _Reading Partners organization,_ a child literacy program that provides individualized reading support to improve at grade level, in which I volunteered for a week and a half as I drove to Washington DC in efforts to make a change in the lives of children. Every morning I would get up early to commute to Malcolm X elementary school where I was fortunate to meet various kids. I was sensitive to the realities of injustice in the community and self-aware in understanding the depth of my capacity to bring change to the children I was working with. Most of them were coming in from tough walks of life in which they lived in poverty and were not sure where the next meal would come from. I resonated with this asset of their lives, as my parents had similar experiences. I remember clearly teaching the same reading lesson to a fourth grader who looks at me mid-sentence and says, “thanks for being here, but I can’t focus. Because the moment that I walk out this room these kids will make fun of my ripped shoes.” I proceeded to share my story growing up in a low-income, in a nutshell, hoping to give the student realist encouragement.
 
