@@ -6,8 +6,8 @@ tags: ["Academics"]
 title: "Education"
 ---
 _Education_
-Bachelor of Arts, Communication Arts
-2016 - 2020
+#### Bachelor of Arts, Communication Arts
+#### 2016 - 2020
 
 Activities and Societies: Kappa Alpha Theta, Grounds for Change, Service Saturday, Alternative Spring Break
 
