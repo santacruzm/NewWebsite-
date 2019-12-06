@@ -1,6 +1,6 @@
 ---
 title: "About"
-featured_image: "/images/india.jpg"
+featured_image: "/content/images/india.jpg"
 description: "Be a Voice, Not an Echo."
 ---
 Social media marketer motivated to constantly expand and
