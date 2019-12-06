@@ -5,4 +5,4 @@ menu:
   main: {}
 ---
 
-![Resumesnap](Resumesnap.png)
+![Resumesnap](https://github.com/santacruzm/NewWebsite-/blob/master/content/post/Resumesnap.png)
