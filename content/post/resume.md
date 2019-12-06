@@ -5,4 +5,4 @@ menu:
   main: {}
 ---
 
-<a href="resume.pdf" download> Download Resume </a>
+![Resumesnap](Resumesnap.png)
