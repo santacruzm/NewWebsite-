@@ -3,6 +3,9 @@ graduation date: May 2020
 description: "Academic History"
 featured_image: "/images/vsco_122716.jpg"
 title: "Education"
+type: page
+menu:
+  main: {}
 ---
 _Education_
 #### Bachelor of Arts, Communication Arts
